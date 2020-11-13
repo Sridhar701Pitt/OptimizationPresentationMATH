@@ -9,4 +9,3 @@ dependencies:
   - scipy
   - ipyvolume
   - networkx
-  - mpl_toolkits
