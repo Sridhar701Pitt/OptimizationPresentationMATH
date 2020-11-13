@@ -1,6 +1,5 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)  
 P1  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb)  
 P2  
@@ -9,10 +8,11 @@ P2
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
-
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb  
+P1:  
 https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb
 
+P2:  
+https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
