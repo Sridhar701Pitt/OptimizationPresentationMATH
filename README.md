@@ -1,8 +1,8 @@
-# Run the Notebooks by clicking the links below or using the URLs listed
+## Run the Notebooks by clicking the links below or using the URLs listed
 
-**Presentation Part 1: ** 
+**Presentation Part 1: **
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb)  
-**Presentation Part 2: **  
+**Presentation Part 2: **
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb)  
 
 Access this Binder by clicking the blue badge above or at the following URL:
