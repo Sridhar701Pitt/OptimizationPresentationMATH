@@ -1,15 +1,15 @@
-## Run the Notebooks by clicking the links below or using the URLs listed
+## Run the Notebooks by clicking the Badges below or using the Links listed
 
-**Presentation Part 1: **
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb)  
-**Presentation Part 2: **
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb)  
+**Presentation Part 1:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb)  
+**Presentation Part 2:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb)  
+**HW3 (Examples):** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=HW3_Updated.ipynb)  
+**HW3: Question 4+ (Examples):** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=HW3_4%2B_Updated.ipynb)  
 
-Access this Binder by clicking the blue badge above or at the following URL:  
-**Presentation Part 1: **
-https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb  
-**Presentation Part 2: **
-https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb  
+
+[**Presentation Part 1**](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb)  
+[**Presentation Part 2**](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb)  
+[**HW3 (Examples)**](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=HW3_Updated.ipynb)  
+[**HW3: Question 4+ (Examples)**](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=HW3_4%2B_Updated.ipynb)  
 
 ## Notes
 
