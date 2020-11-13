@@ -6,8 +6,5 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+  - scipy
+  - ipyvolume
