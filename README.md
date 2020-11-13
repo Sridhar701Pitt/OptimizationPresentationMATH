@@ -19,3 +19,4 @@
 4. Run Code a second time if the output is not displayed (If it still doesn't work, it might be a problem with the code itself)
 5. You can also view this on any web browser on any device, though the view might be different
 6. **HW3 (Examples)** currently has some display issues, so you will be able to view the code but the plots wont be displayed properly
+7. If the cells doesnot run, then just close the window and try again. (It might have disconnected due to inactivity)
