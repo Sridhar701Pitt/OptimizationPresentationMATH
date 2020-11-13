@@ -14,7 +14,8 @@
 ## Notes
 
 1. It may take a while for the program to start up
-2. You can edit/modify the code and run the cells as you please (This will not modify the source code, so no need to worry)
-3. Run Code a second time if the output is not displayed (If it still doesn't work, it might be a problem with the code itself)
-4. You can also view this on any web browser on any device, though the view might be different
-5. **HW3 (Examples)** currently has some display issues, so you will be able to view the code but the plots wont be displayed properly
+2. To run the notebook, click **Cells > Run All** or select each cell and press **Ctrl + Enter** key combination
+3. You can edit/modify the code and run the cells as you please (This will not modify the source code, so no need to worry)
+4. Run Code a second time if the output is not displayed (If it still doesn't work, it might be a problem with the code itself)
+5. You can also view this on any web browser on any device, though the view might be different
+6. **HW3 (Examples)** currently has some display issues, so you will be able to view the code but the plots wont be displayed properly
