@@ -17,3 +17,4 @@
 2. You can edit/modify the code and run the cells as you please (This will not modify the source code, so no need to worry)
 3. Run Code a second time if the output is not displayed (If it still doesn't work, it might be a problem with the code itself)
 4. You can also view this on any web browser on any device, though the view might be different
+5. **HW3 (Examples) ** currently has some display issues, so you will be able to view the code but the plots wont be displayed properly
