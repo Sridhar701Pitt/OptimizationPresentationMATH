@@ -1,4 +1,4 @@
-## Run the Notebooks by clicking the Badges below or using the Links listed
+## Run the Notebooks by clicking the Badges below or by using the Links listed
 
 **Presentation Part 1:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P1.ipynb)  
 **Presentation Part 2:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sridhar701Pitt/OptimizationPresentationMATH/master?filepath=Presentation%20-%20Optimization%20with%20Python%20P2.ipynb)  
